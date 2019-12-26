@@ -5,6 +5,7 @@ def new_line():
 #here function three_lines
 def three_lines():
     new_line()
+    
     new_line()
     new_line()
 
